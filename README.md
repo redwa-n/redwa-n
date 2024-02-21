@@ -1,7 +1,7 @@
 ![logo](https://github.com/redwa-n/redwa-n/blob/main/programer-ezgif.com-crop.gif)
 <h1 align="center">Hey 👋, Myself Kazi Redwan</h1>
 <h3 align="center">Tech Enthusiast with a Drive for Excellence in Next-Gen Innovations!</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/redwa-n/redwa-n/blob/main/download11.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwa-n&label=Profile%20views&color=0e75b6&style=flat" alt="redwa-n" /> </p>
 
