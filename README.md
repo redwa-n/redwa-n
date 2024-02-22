@@ -1,13 +1,14 @@
 <h1 align="center">
   <img src="https://github.com/redwa-n/redwa-n/blob/main/programer-ezgif.com-crop.gif" alt="Hello, Myself Kazi Redwan!" width="500px">
   <br>
-  Hello, Myself Kazi Redwan!
+  AIUBian
 </h1>
 
 ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=redwa-n&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+
 ### About Me
 
 👋 Hey there! I'm Kazi Redwan, a passionate tech enthusiast with a drive for excellence in next-gen innovations!
