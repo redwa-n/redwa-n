@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redwa-n" alt="redwa-n" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning & Deep Learning](https://github.com/redwa-n/Advanced-Data-Scaling-Visualization-and-Machine-Learning-Techniques)
+- 🔭 I’m currently working on [Machine Learning & Deep Learning & Advance C++ & Algorithm](https://github.com/redwa-n/Advanced-Data-Scaling-Visualization-and-Machine-Learning-Techniques)
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning & Data Science**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/redwa-n/](https://www.linkedin.com/in/redwa-n/)
+- 👨‍💻 All of myself are available at [https://www.linkedin.com/in/redwa-n/](https://www.linkedin.com/in/redwa-n/)
 
-- 💬 Ask me about **Python & C++ & R**
+- 💬 Ask me about **Python & C++ & R & Research Idea**
 
 - 📫 How to reach me **redwan.stu@gmail.com**
 
-- ⚡ Fun fact **I’m just a chill person with a knack for getting stuff done on time, no biggie.**
+- ⚡ Mind it **I’m just a chill person with a knack for getting stuff done on time, no biggie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
